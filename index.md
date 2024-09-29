@@ -824,7 +824,7 @@ input::-webkit-input-placeholder {
                 <div class="rwo">
                     <div class="col-md-12">
                         <p>
-                            本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：3443970878@qq.com
+                            本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：shawpan@
                         </p>
                         <!--代码源自小呆导航的开源代码，遵循MIT协议，此处保留源代码的声明-->
                         <p>
@@ -1012,6 +1012,6 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQ2ODk1NzcsNjg3NjgxODE0LDE3Nj
-k3NjIyMzEsLTY2Njc2MTgzNF19
+eyJoaXN0b3J5IjpbMTM5OTUyNzk2OSwtMTk4NDY4OTU3Nyw2OD
+c2ODE4MTQsMTc2OTc2MjIzMSwtNjY2NzYxODM0XX0=
 -->
