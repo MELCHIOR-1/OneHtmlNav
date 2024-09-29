@@ -789,19 +789,19 @@ input::-webkit-input-placeholder {
                     </div>
                     <!--获取内容列表-->
                     <div class="clearfix two-list-box">
-                        <div class="col-md-3 col-sm-4 col-xs-6">
+                        <div class="col-md-3 col-sm-3 col-xs-6">
                             <a href="https://www.v2ex.com/" class="card-link" target="_blank">
                             <div class="card-tit">V2EX</div>
                             <div class="card-desc">V2EX- The way to EXplore.</div>
                             </a>
                         </div>
-                        <div class="col-md-3 col-sm-4 col-xs-6">
+                        <div class="col-md-3 col-sm-3 col-xs-6">
                             <a href="https://www.zhihu.com/explore" class="card-link" target="_blank">
                             <div class="card-tit">ZHIHU</div>
                             <div class="card-desc">Zhihu hot topics</div>
                             </a>
                         </div>
-                        <div class="col-md-3 col-sm-4 col-xs-6">
+                        <div class="col-md-3 col-sm-3 col-xs-6">
                             <a href="https://github.com/MELCHIOR-1" class="card-link" target="_blank">
                             <div class="card-tit"> My github</div>
                             <div class="card-desc">Melchior-1</div>
@@ -953,7 +953,7 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzNzk2NjQsMTAwNzg0Njk0MCwxMTg0ND
-Y4MDg0LDEzOTk1Mjc5NjksLTE5ODQ2ODk1NzcsNjg3NjgxODE0
-LDE3Njk3NjIyMzEsLTY2Njc2MTgzNF19
+eyJoaXN0b3J5IjpbMTQ3ODA3MzEwMSwxMDA3ODQ2OTQwLDExOD
+Q0NjgwODQsMTM5OTUyNzk2OSwtMTk4NDY4OTU3Nyw2ODc2ODE4
+MTQsMTc2OTc2MjIzMSwtNjY2NzYxODM0XX0=
 -->
