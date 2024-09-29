@@ -807,12 +807,6 @@ input::-webkit-input-placeholder {
                             <div class="card-desc">Melchior-1</div>
                             </a>
                         </div>
-                        <div class="col-md-3 col-sm-4 col-xs-6">
-                            <a href="https://www.52pojie.cn/" class="card-link" target="_blank">
-                            <div class="card-tit">吾爱破解</div>
-                            <div class="card-desc">软件与编程</div>
-                            </a>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -959,7 +953,7 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTcyMzM2NSwxMDA3ODQ2OTQwLDExOD
-Q0NjgwODQsMTM5OTUyNzk2OSwtMTk4NDY4OTU3Nyw2ODc2ODE4
-MTQsMTc2OTc2MjIzMSwtNjY2NzYxODM0XX0=
+eyJoaXN0b3J5IjpbODkzNzk2NjQsMTAwNzg0Njk0MCwxMTg0ND
+Y4MDg0LDEzOTk1Mjc5NjksLTE5ODQ2ODk1NzcsNjg3NjgxODE0
+LDE3Njk3NjIyMzEsLTY2Njc2MTgzNF19
 -->
