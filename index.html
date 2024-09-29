@@ -28,7 +28,7 @@ a:hover,a:active,a:focus {
     text-decoration: none;
 }
 body {
-    background-image: ;
+    background-color:# ;
     background-repeat:repeat;
     background-attachment:fixed;
     overflow-x: hidden;
@@ -953,7 +953,7 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzcwNDA0NCwxOTY0MTk3MjQsMTAwNz
+eyJoaXN0b3J5IjpbMjAxNDc0MTkwNywxOTY0MTk3MjQsMTAwNz
 g0Njk0MCwxMTg0NDY4MDg0LDEzOTk1Mjc5NjksLTE5ODQ2ODk1
 NzcsNjg3NjgxODE0LDE3Njk3NjIyMzEsLTY2Njc2MTgzNF19
 -->
