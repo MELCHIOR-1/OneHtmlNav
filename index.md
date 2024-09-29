@@ -731,14 +731,14 @@ input::-webkit-input-placeholder {
     <h1 class="logo">
     <a href="http://blog.shawpan.cn">
     <img src="http://blog.shawpan.cn/assets/favicon.ico?v=5.1.1">
-    <span>个人导航</span>
+    <span>Navigation</span>
     </a>
     </h1>
     <!--顶部导航条-->
     <nav class="nav">
     <ul>
-        <li><a href="http://blog.shawpan.cn/" target="_blank">博客</a></li>
-        <li><a href="http://weread.shawpan.cn" target="_blank">阅读</a></li>		
+        <li><a href="http://blog.shawpan.cn/" target="_blank">Blog</a></li>
+        <li><a href="http://weread.shawpan.cn" target="_blank">Read</a></li>		
     </ul>
     </nav>
     <!--便携设备右上角菜单-->
@@ -1012,5 +1012,6 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTc2MjIzMSwtNjY2NzYxODM0XX0=
+eyJoaXN0b3J5IjpbLTE0MjEwMzI3NDEsMTc2OTc2MjIzMSwtNj
+Y2NzYxODM0XX0=
 -->
