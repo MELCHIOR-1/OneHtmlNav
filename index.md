@@ -750,12 +750,12 @@ input::-webkit-input-placeholder {
     <!--左侧目录，导航跳转-->
     <div class="left-bar">
         <div class="header">
-            <h2>目录</h2>
+            <h2>Catalog</h2>
         </div>
         <div class="menu" id="menu">
             <ul class="scrollcontent">
                 <!--左侧目录，按照需要修改和添加，参考已有的修改名称和href-->
-                <li><a href="#row-1">常用</a></li>
+                <li><a href="#row-1">Common</a></li>
             </ul>
         </div>
     </div>
@@ -785,7 +785,7 @@ input::-webkit-input-placeholder {
             <div class="container-fluid">
                 <div class="row">
                     <div class="item-tit">
-                        <strong>常用·社区</strong>
+                        <strong>Common</strong>
                     </div>
                     <!--获取内容列表-->
                     <div class="clearfix two-list-box">
@@ -1012,6 +1012,6 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjEwMzI3NDEsMTc2OTc2MjIzMSwtNj
-Y2NzYxODM0XX0=
+eyJoaXN0b3J5IjpbNjg3NjgxODE0LDE3Njk3NjIyMzEsLTY2Nj
+c2MTgzNF19
 -->
