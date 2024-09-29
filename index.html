@@ -817,26 +817,6 @@ input::-webkit-input-placeholder {
                 </div>
             </div>
             </section>
-
-            
-            <section class="item card-box" id="row-10">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="item-tit">
-                        <strong>其他·小众</strong>
-                    </div>
-                    <!--获取内容列表-->
-                    <div class="clearfix two-list-box">
-                        <div class="col-md-3 col-sm-4 col-xs-6">
-                            <a href="https://www.ugediao.com/" class="card-link" target="_blank">
-                            <div class="card-tit">有格调</div>
-                            <div class="card-desc">推荐优质文章和资源</div>
-                            </a>
-                        </div>              
-                    </div>
-                </div>
-            </div>
-            </section>              
             
             <!--页脚-->
             <footer class="footer">
@@ -1032,5 +1012,5 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzg5MzQ1MzksLTY2Njc2MTgzNF19
+eyJoaXN0b3J5IjpbMTc2OTc2MjIzMSwtNjY2NzYxODM0XX0=
 -->
