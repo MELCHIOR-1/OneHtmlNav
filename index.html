@@ -797,14 +797,14 @@ input::-webkit-input-placeholder {
                         </div>
                         <div class="col-md-3 col-sm-4 col-xs-6">
                             <a href="https://www.zhihu.com/explore" class="card-link" target="_blank">
-                            <div class="card-tit">知乎发现</div>
-                            <div class="card-desc">知乎热点和推荐</div>
+                            <div class="card-tit">ZHIHU</div>
+                            <div class="card-desc">Zhihu hot topics</div>
                             </a>
                         </div>
                         <div class="col-md-3 col-sm-4 col-xs-6">
-                            <a href="https://github.com/bituplink" class="card-link" target="_blank">
-                            <div class="card-tit">我的github</div>
-                            <div class="card-desc">github-bituplink</div>
+                            <a href="https://github.com/MELCHIOR-1" class="card-link" target="_blank">
+                            <div class="card-tit"> My github</div>
+                            <div class="card-desc">Melchior-1</div>
                             </a>
                         </div>
                         <div class="col-md-3 col-sm-4 col-xs-6">
@@ -959,7 +959,7 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5NDA1Nzk0LDEwMDc4NDY5NDAsMTE4ND
-Q2ODA4NCwxMzk5NTI3OTY5LC0xOTg0Njg5NTc3LDY4NzY4MTgx
-NCwxNzY5NzYyMjMxLC02NjY3NjE4MzRdfQ==
+eyJoaXN0b3J5IjpbMTU2MTcyMzM2NSwxMDA3ODQ2OTQwLDExOD
+Q0NjgwODQsMTM5OTUyNzk2OSwtMTk4NDY4OTU3Nyw2ODc2ODE4
+MTQsMTc2OTc2MjIzMSwtNjY2NzYxODM0XX0=
 -->
