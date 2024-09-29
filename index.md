@@ -773,7 +773,7 @@ input::-webkit-input-placeholder {
                 <!-- 搜索引擎 -->
                 <div class="search-engine">
                     <div class="search-engine-head">
-                        <strong class="search-engine-tit">选择您的默认搜索引擎：</strong>
+                        <strong class="search-engine-tit">Choose your Engine：</strong>
                     </div>
                     <ul class="search-engine-list">
                     </ul>
@@ -953,7 +953,7 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODA3MzEwMSwxMDA3ODQ2OTQwLDExOD
-Q0NjgwODQsMTM5OTUyNzk2OSwtMTk4NDY4OTU3Nyw2ODc2ODE4
-MTQsMTc2OTc2MjIzMSwtNjY2NzYxODM0XX0=
+eyJoaXN0b3J5IjpbMTk2NDE5NzI0LDEwMDc4NDY5NDAsMTE4ND
+Q2ODA4NCwxMzk5NTI3OTY5LC0xOTg0Njg5NTc3LDY4NzY4MTgx
+NCwxNzY5NzYyMjMxLC02NjY3NjE4MzRdfQ==
 -->
