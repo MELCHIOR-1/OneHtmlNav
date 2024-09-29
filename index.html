@@ -6,9 +6,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <!--title keywords description 请改为自己的-->
-<title>个人导航 - shawpan</title>
-<meta name="keywords" content="导航,网址"/>
-<meta name="description" content="简单但实用的导航"/>
+<title>navi - shawpan</title>
+<meta name="keywords" content="navigation"/>
+<meta name="description" content="personal navigation"/>
 
 
 <!--网站favicon可以没有或者改为自己的-->
@@ -1700,5 +1700,5 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2Njc2MTgzNF19
+eyJoaXN0b3J5IjpbNjU0MDMzMjUyLC02NjY3NjE4MzRdfQ==
 -->
