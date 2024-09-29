@@ -28,11 +28,7 @@ a:hover,a:active,a:focus {
     text-decoration: none;
 }
 body {
-    background-color:#C7EDCC;
-    background-repeat:repeat;
-    background-attachment:fixed;
-    overflow-x: hidden;
-    overflow-y: auto;
+    background-color:#000000;
 }
 i.icon,i.fa {
     margin-right: 6px
@@ -953,7 +949,8 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzMDM2NzkwLDE5NjQxOTcyNCwxMDA3OD
-Q2OTQwLDExODQ0NjgwODQsMTM5OTUyNzk2OSwtMTk4NDY4OTU3
-Nyw2ODc2ODE4MTQsMTc2OTc2MjIzMSwtNjY2NzYxODM0XX0=
+eyJoaXN0b3J5IjpbMTgwMDIwOTAxNCwzOTMwMzY3OTAsMTk2ND
+E5NzI0LDEwMDc4NDY5NDAsMTE4NDQ2ODA4NCwxMzk5NTI3OTY5
+LC0xOTg0Njg5NTc3LDY4NzY4MTgxNCwxNzY5NzYyMjMxLC02Nj
+Y3NjE4MzRdfQ==
 -->
