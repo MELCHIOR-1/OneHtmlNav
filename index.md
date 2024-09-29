@@ -210,7 +210,7 @@ header .animated2 .bottom {
     -moz-transform: translateZ(0);
    /* Firefox */
     -webkit-transform: translateZ(0);
- /* Safari 鍜� Chrome */
+ /* Safari Chrome */
     -o-transform: translateZ(0);
    /* Opera */
 }
@@ -1012,6 +1012,6 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3NjgxODE0LDE3Njk3NjIyMzEsLTY2Nj
-c2MTgzNF19
+eyJoaXN0b3J5IjpbLTE5ODQ2ODk1NzcsNjg3NjgxODE0LDE3Nj
+k3NjIyMzEsLTY2Njc2MTgzNF19
 -->
