@@ -766,8 +766,8 @@ input::-webkit-input-placeholder {
             <section class="sousuo">
             <div class="search">
                 <div class="search-box">
-                    <button class="search-engine-name" id="search-engine-name">百度</button>
-                    <input type="text" id="txt" class="search-input" placeholder="选择引擎，输入关键字，回车/Enter搜索"/>
+                    <button class="search-engine-name" id="search-engine-name">Google</button>
+                    <input type="text" id="txt" class="search-input" placeholder="Choose Engine,选择引擎，输入关键字，回车/Enter搜索"/>
                     <button class="search-btn" id="search-btn">搜索</button>
                 </div>
                 <!-- 搜索引擎 -->
@@ -959,7 +959,7 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzg0Njk0MCwxMTg0NDY4MDg0LDEzOT
-k1Mjc5NjksLTE5ODQ2ODk1NzcsNjg3NjgxODE0LDE3Njk3NjIy
-MzEsLTY2Njc2MTgzNF19
+eyJoaXN0b3J5IjpbLTQ1NTkwNzU3NCwxMDA3ODQ2OTQwLDExOD
+Q0NjgwODQsMTM5OTUyNzk2OSwtMTk4NDY4OTU3Nyw2ODc2ODE4
+MTQsMTc2OTc2MjIzMSwtNjY2NzYxODM0XX0=
 -->
