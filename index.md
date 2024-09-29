@@ -878,7 +878,7 @@ function browserRedirect() {
   });
  
 // 默认搜索引擎的内容，如果界面修改了需要同步修改
-var thisSearch = 'https://www.baidu.com/s?wd=';
+var thisSearch = 'https://www.google.com/search?q=';
 
 
 $('#txt').keydown(function(ev){
@@ -918,44 +918,16 @@ $(function(){
       url: 'https://github.com/search?q='
     },
     {
-      name: 'Goog',
+      name: 'Google',
       url: 'https://www.google.com/search?q='
     },
     {
-      name: '语雀',
-      url: 'https://www.yuque.com/search?q='
-    },	
-    {
-      name: '微博',
+      name: 'Weibo',
       url: 'https://s.weibo.com/weibo/'
     }, 
     {
       name: 'Bilibili',
       url: 'http://search.bilibili.com/all?keyword='
-    }, 
-	 {
-      name: '悟空问答',
-      url: 'http://www.wukong.com/search/?keyword='
-    },
-    {
-      name: '优酷',
-      url: 'https://so.youku.com/search_video/q_'
-    },
-    {
-      name: '淘宝',
-      url: 'https://s.taobao.com/search?q='
-    },
-    {
-      name: '京东',
-      url: 'http://search.jd.com/Search?keyword='
-    },
-    {
-      name: '全球教程',
-      url: 'http://www.coursade.com/courses?q='
-    },
-    {
-      name: '考试题库',
-      url: 'https://www.asklib.com/s/='
     }
 	]
   }
@@ -987,7 +959,7 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDY5MjQ0MiwxMTg0NDY4MDg0LDEzOT
+eyJoaXN0b3J5IjpbMTAwNzg0Njk0MCwxMTg0NDY4MDg0LDEzOT
 k1Mjc5NjksLTE5ODQ2ODk1NzcsNjg3NjgxODE0LDE3Njk3NjIy
 MzEsLTY2Njc2MTgzNF19
 -->
