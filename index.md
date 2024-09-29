@@ -832,7 +832,7 @@ input::-webkit-input-placeholder {
         </div>
         <!--内容区域-->
     </div>
-    <div id="get-top" title="回到顶部">
+    <div id="get-top" title="Top">
         <i class="icon icon-arrow-up"></i>
     </div>
     
@@ -1007,7 +1007,7 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODE1MTc4NSwxMzk5NTI3OTY5LC0xOT
+eyJoaXN0b3J5IjpbMTE4NDQ2ODA4NCwxMzk5NTI3OTY5LC0xOT
 g0Njg5NTc3LDY4NzY4MTgxNCwxNzY5NzYyMjMxLC02NjY3NjE4
 MzRdfQ==
 -->
