@@ -10,8 +10,10 @@
 <meta name="keywords" content="导航,网址"/>
 <meta name="description" content="简单但实用的导航"/>
 
+
 <!--网站favicon可以没有或者改为自己的-->
 <link rel="shortcut icon" type="image/x-icon" href="http://blog.shawpan.cn/assets/favicon.ico?v=5.1.1"/>
+
 
 <!--CSS 若不需要变动样式不用改-->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/zui/1.8.1/css/zui.min.css" rel="stylesheet" type="text/css"/>
@@ -703,6 +705,7 @@ input::-webkit-input-placeholder {
 }
 </style>
 
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125804271-1"></script>
 <script>
@@ -710,8 +713,10 @@ input::-webkit-input-placeholder {
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
+
   gtag('config', 'UA-125804271-1');
 </script>
+
 
 </head>
 <body id="nav_body">
@@ -1296,6 +1301,7 @@ input::-webkit-input-placeholder {
             </div>
             </section>
 
+
             <section class="item card-box" id="row-7">
             <div class="container-fluid">
                 <div class="row">
@@ -1381,6 +1387,7 @@ input::-webkit-input-placeholder {
             </div>
             </section>
 
+
             <section class="item card-box" id="row-8">
             <div class="container-fluid">
                 <div class="row">
@@ -1423,6 +1430,7 @@ input::-webkit-input-placeholder {
                 </div>
             </div>
             </section>
+
 
             <section class="item card-box" id="row-9">
             <div class="container-fluid">
@@ -1565,6 +1573,7 @@ function browserRedirect() {
 // 默认搜索引擎的内容，如果界面修改了需要同步修改
 var thisSearch = 'https://www.baidu.com/s?wd=';
 
+
 $('#txt').keydown(function(ev){
     // 回车键的处理
     if(ev.keyCode==13){
@@ -1691,5 +1700,5 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTcyOTk2MzZdfQ==
+eyJoaXN0b3J5IjpbLTY2Njc2MTgzNF19
 -->
