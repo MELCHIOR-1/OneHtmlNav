@@ -755,16 +755,7 @@ input::-webkit-input-placeholder {
         <div class="menu" id="menu">
             <ul class="scrollcontent">
                 <!--左侧目录，按照需要修改和添加，参考已有的修改名称和href-->
-                <li><a href="#row-1">常用·社区</a></li>
-                <li><a href="#row-2">资源·下载</a></li>
-                <li><a href="#row-3">实用·工具</a></li>
-                <li><a href="#row-4">分享·软件</a></li>
-                <li><a href="#row-5">知识·学习</a></li>
-                <li><a href="#row-6">资讯·博客</a></li>
-                <li><a href="#row-7">网络·书籍</a></li>
-                <li><a href="#row-8">在线·游戏</a></li>
-                <li><a href="#row-9">网址·导航</a></li>
-                <li><a href="#row-10">其他·小众</a></li>
+                <li><a href="#row-1">常用</a></li>
             </ul>
         </div>
     </div>
@@ -1700,5 +1691,5 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ0MjA0ODQsLTY2Njc2MTgzNF19
+eyJoaXN0b3J5IjpbMTQ0NTc5NTUxNiwtNjY2NzYxODM0XX0=
 -->
