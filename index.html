@@ -170,7 +170,7 @@ header .animated2 .top {
     -moz-transform: translateY(8px) rotateZ(45deg);
    /* Firefox */
     -webkit-transform: translateY(8px) rotateZ(45deg);
- /* Safari 鍜� Chrome */
+ /* Safari Chrome */
     -o-transform: translateY(8px) rotateZ(45deg);
    /* Opera */
 }
@@ -201,7 +201,7 @@ header .animated2 .bottom {
     -moz-transition: all 0.4s ease;
  /* Firefox 4 */
     -webkit-transition: all 0.4s ease;
- /* Safari 鍜� Chrome */
+ /* Safari Chrome */
     -o-transition: all 0.4s ease;
  /* Opera */
     transform: translateZ(0);
@@ -1700,5 +1700,5 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0MDMzMjUyLC02NjY3NjE4MzRdfQ==
+eyJoaXN0b3J5IjpbLTE1ODQ0MjA0ODQsLTY2Njc2MTgzNF19
 -->
