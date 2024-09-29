@@ -767,8 +767,8 @@ input::-webkit-input-placeholder {
             <div class="search">
                 <div class="search-box">
                     <button class="search-engine-name" id="search-engine-name">Google</button>
-                    <input type="text" id="txt" class="search-input" placeholder="Choose Engine,选择引擎，输入关键字，回车/Enter搜索"/>
-                    <button class="search-btn" id="search-btn">搜索</button>
+                    <input type="text" id="txt" class="search-input" placeholder="Choose Engine, Input keywords and Enter"/>
+                    <button class="search-btn" id="search-btn">Search</button>
                 </div>
                 <!-- 搜索引擎 -->
                 <div class="search-engine">
@@ -792,7 +792,7 @@ input::-webkit-input-placeholder {
                         <div class="col-md-3 col-sm-4 col-xs-6">
                             <a href="https://www.v2ex.com/" class="card-link" target="_blank">
                             <div class="card-tit">V2EX</div>
-                            <div class="card-desc">V2EX 是一个关于分享和探索的地方</div>
+                            <div class="card-desc">V2EX- The way to EXplore.</div>
                             </a>
                         </div>
                         <div class="col-md-3 col-sm-4 col-xs-6">
@@ -959,7 +959,7 @@ $("#search-btn").click(function(){
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTkwNzU3NCwxMDA3ODQ2OTQwLDExOD
-Q0NjgwODQsMTM5OTUyNzk2OSwtMTk4NDY4OTU3Nyw2ODc2ODE4
-MTQsMTc2OTc2MjIzMSwtNjY2NzYxODM0XX0=
+eyJoaXN0b3J5IjpbOTM5NDA1Nzk0LDEwMDc4NDY5NDAsMTE4ND
+Q2ODA4NCwxMzk5NTI3OTY5LC0xOTg0Njg5NTc3LDY4NzY4MTgx
+NCwxNzY5NzYyMjMxLC02NjY3NjE4MzRdfQ==
 -->
